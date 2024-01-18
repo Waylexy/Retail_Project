@@ -1,14 +1,14 @@
 # Retail Report
 
 ## Table Of Contents
-- [Overview](Overview)
-- [Data Sources](Data-Sources)
-- [Tools Used](Tools-Used)
-- [Data cleaning/preparation](Data-cleaning/preparation)
-- [Explanatory Data Analysis](Explanatory-Data-Analysis)
-- [Data Analysis](Data-Analysis)
-- [Result](Result)
-- [Limitations](Limitations)
+- [Overview](##Overview)
+- [Data Sources](##Data-Sources)
+- [Tools Used](##Tools-Used)
+- [Data cleaning/preparation](##Data-cleaning/preparation)
+- [Explanatory Data Analysis](###Explanatory-Data-Analysis)
+- [Data Analysis](##Data-Analysis)
+- [Result](##Result)
+- [Limitations](###Limitations)
   
 ## Overview
 
